@@ -1,0 +1,8 @@
+{
+  "name": "alarm",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.21.1",
+    "wiring-pi": "^2.1.1"
+  }
+}
